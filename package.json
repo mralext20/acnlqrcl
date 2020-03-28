@@ -1,0 +1,17 @@
+{
+  "name": "acnlqrcl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Terry",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "esm": "^3.2.25",
+    "lz-string": "^1.4.4",
+    "yargs": "^15.3.1"
+  }
+}
